@@ -1,6 +1,5 @@
 import mysql.connector
 import requests
-token = "1113083009:AAEHdsPlQ38p6DO_pJ2d8zWNpVgSJFx7REI"
 if __name__ == "__main__":
     db_manager
 
